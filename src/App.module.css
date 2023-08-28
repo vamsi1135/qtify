@@ -1,0 +1,23 @@
+.sectionWrapper {
+  padding: 0px 30px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.faqs {
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 100px;
+}
+.heading {
+  color: white;
+  text-decoration-color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.heading2 {
+  margin-right: auto;
+  color: white;
+  margin-left: 5px;
+  margin-top: 5px;
+}

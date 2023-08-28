@@ -1,0 +1,44 @@
+{
+  "name": "qtify-website",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@emotion/styled": "11.10.6",
+    "@headlessui/react": "1.7.17",
+    "@heroicons/react": "2.0.18",
+    "@material-ui/utils": "4.11.3",
+    "@mui/icons-material": "5.14.6",
+    "@mui/lab": "5.0.0-alpha.141",
+    "@mui/material": "5.14.5",
+    "axios": "1.4.0",
+    "csbbust": "1.0.1",
+    "loader-utils": "3.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "swiper": "9.1.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "netlify-cli": "^16.1.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

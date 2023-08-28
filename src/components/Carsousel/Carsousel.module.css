@@ -1,0 +1,14 @@
+.wrapper {
+  position: relative;
+  /* width: 100%; */
+
+  /* display: flex;
+  gap: 40px;
+  flex-wrap: wrap; */
+}
+.arrow {
+  display: flex;
+  z-index: 1;
+  margin-top: 20px;
+  justify-content: space-between;
+}

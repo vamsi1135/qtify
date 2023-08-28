@@ -8,7 +8,7 @@ import styles from "./App.module.css";
 import Section from "../src/components/Section/Section";
 import Tabs from "../src/components/Tabs/Tabs";
 import Faqs from "./components/Faqs/Faqs";
-
+// 
 export default function App() {
   const [data, setData] = useState([]);
   const generateData = async () => {
